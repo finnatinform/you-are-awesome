@@ -21,3 +21,6 @@
   * [GraphQL](https://developer.github.com/v4/explorer/)
 * Pokemon :dragon:
   * [GraphQL](https://graphql-pokemon.now.sh)
+
+## Things, i would like to explore :mortar_board:
+* [Better CSS Integration in JS](https://github.com/MicheleBertoli/css-in-js)
