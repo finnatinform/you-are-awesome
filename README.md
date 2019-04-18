@@ -19,5 +19,5 @@
   * [GraphQL](https://bahnql.herokuapp.com/graphql)
 * GitHub :cat:
   * [GraphQL](https://developer.github.com/v4/explorer/)
-* PokeMon :dragon:
-  * [Pokemon](https://graphql-pokemon.now.sh)
+* Pokemon :dragon:
+  * [GraphQL](https://graphql-pokemon.now.sh)
