@@ -10,3 +10,10 @@
 ## In advisory mode :chart_with_upwards_trend:
 * [React Patterns](https://reactpatterns.com/)
 * [State of JavaScript](https://stateofjs.com/)
+
+## APIs, that are gold :heart_eyes:
+* Star Wars Api :alien:
+  * [REST](https://swapi.co/)
+  * [GraphQL](https://swapi.apis.guru/)
+* Deutsche Bahn :train:
+  * [GraphQL](https://bahnql.herokuapp.com/graphql)
