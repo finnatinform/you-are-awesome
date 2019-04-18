@@ -17,3 +17,7 @@
   * [GraphQL](https://swapi.apis.guru/)
 * Deutsche Bahn :train:
   * [GraphQL](https://bahnql.herokuapp.com/graphql)
+* GitHub :cat:
+  * [GraphQL](https://developer.github.com/v4/explorer/)
+* PokeMon :dragon:
+  * [Pokemon](https://graphql-pokemon.now.sh)
