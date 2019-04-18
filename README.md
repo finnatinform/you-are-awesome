@@ -7,6 +7,6 @@
 * [Jest](https://jestjs.io/)
 * [TypeScript](https://www.typescriptlang.org/)
 
-## In advisory mode
+## In advisory mode :chart_with_upwards_trend:
 * [React Patterns](https://reactpatterns.com/)
 * [State of JavaScript](https://stateofjs.com/)
