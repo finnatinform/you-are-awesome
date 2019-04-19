@@ -24,10 +24,11 @@
 
 ## Tools, that me more productive :wrench:
 * [Git History](https://githistory.xyz/) :older_woman::older_man:
-
+* [Git Emoji List](https://gist.github.com/rxaviers/7360908)
 ## Currently in Test :mag:
 * [TypeStyle](https://github.com/typestyle/typestyle)
 
 ## Things, i would like to explore :mortar_board:
 * [Better CSS Integration in JS](https://github.com/MicheleBertoli/css-in-js)
 * [Hot Loading Components](https://github.com/gaearon/react-hot-loader) :fire:
+* [React Kawaii by the amazing miukimiu](https://github.com/miukimiu/react-kawaii)
