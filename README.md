@@ -1,4 +1,4 @@
-# Libraries i am really thankful for :heart:
+# Things i am really thankful for :heart:
 
 ## Technologies, which will bring us to the moon :rocket::full_moon:
 * [ReactJS](https://reactjs.org/)
