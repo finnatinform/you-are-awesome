@@ -22,7 +22,7 @@
 * Pokemon :dragon:
   * [GraphQL](https://graphql-pokemon.now.sh)
 
-## Tools, that me more productive
+## Tools, that me more productive :wrench:
 * [Git History](https://githistory.xyz/) :older_woman::older_man:
 
 ## Things, i would like to explore :mortar_board:
