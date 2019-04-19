@@ -22,6 +22,9 @@
 * Pokemon :dragon:
   * [GraphQL](https://graphql-pokemon.now.sh)
 
+## Tools, that me more productive
+* [Git History](https://githistory.xyz/) :older_woman::older_man:
+
 ## Things, i would like to explore :mortar_board:
 * [Better CSS Integration in JS](https://github.com/MicheleBertoli/css-in-js)
 * [Hot Loading Components](https://github.com/gaearon/react-hot-loader) :fire:
