@@ -32,3 +32,4 @@
 * [Better CSS Integration in JS](https://github.com/MicheleBertoli/css-in-js)
 * [Hot Loading Components](https://github.com/gaearon/react-hot-loader) :fire:
 * [React Kawaii by the amazing miukimiu](https://github.com/miukimiu/react-kawaii)
+* [Shards React](https://github.com/DesignRevision/shards-react)
